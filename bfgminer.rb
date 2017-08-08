@@ -2,7 +2,7 @@ require 'formula'
 
 class Bfgminer < Formula
   homepage 'https://github.com/luke-jr/bfgminer'
-  head 'https://github.com/jstefanop/bfgminer.git', :branch => 'futurebit_driver'
+  head 'https://github.com/jstefanop/bfgminer.git', :branch => 'futurebit2_driver'
 
 
   depends_on 'autoconf' => :build
